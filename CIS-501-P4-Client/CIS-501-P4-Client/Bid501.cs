@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CIS_501_P4_Client
 {
-    public partial class Form1 : Form
+    public partial class Bid501 : Form
     {
-        public Form1()
+        public Bid501()
         {
             InitializeComponent();
         }
