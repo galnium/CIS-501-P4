@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS-501-P4-Client", "CIS-501-P4-Client\CIS-501-P4-Client.csproj", "{3E5112BC-1A37-4C2E-91CE-51118A94C69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5112BC-1A37-4C2E-91CE-51118A94C69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5112BC-1A37-4C2E-91CE-51118A94C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5112BC-1A37-4C2E-91CE-51118A94C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5112BC-1A37-4C2E-91CE-51118A94C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5079FC9B-BEC8-405E-8D78-91A4E50A1219}
+	EndGlobalSection
+EndGlobal
