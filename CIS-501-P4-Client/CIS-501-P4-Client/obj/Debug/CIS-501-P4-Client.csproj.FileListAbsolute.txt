@@ -8,3 +8,4 @@ C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Client\CIS-501-P
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Client\CIS-501-P4-Client\obj\Debug\CIS-501-P4-Client.csproj.CoreCompileInputs.cache
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Client\CIS-501-P4-Client\obj\Debug\CIS-501-P4-Client.exe
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Client\CIS-501-P4-Client\obj\Debug\CIS-501-P4-Client.pdb
+C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Client\CIS-501-P4-Client\obj\Debug\CIS_501_P4_Client.Bid501.resources

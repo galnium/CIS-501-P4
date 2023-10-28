@@ -4,8 +4,8 @@ C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS-501-P4-Server.csproj.AssemblyReference.cache
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS_501_P4_Server.AddProduct.resources
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS_501_P4_Server.Properties.Resources.resources
-C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS_501_P4_Server.Form1.resources
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS-501-P4-Server.csproj.GenerateResource.cache
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS-501-P4-Server.csproj.CoreCompileInputs.cache
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS-501-P4-Server.exe
 C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS-501-P4-Server.pdb
+C:\Users\gasadrak\source\repos\CIS-501-P4\CIS-501-P4\CIS-501-P4-Server\CIS-501-P4-Server\obj\Debug\CIS_501_P4_Server.ServerForm.resources

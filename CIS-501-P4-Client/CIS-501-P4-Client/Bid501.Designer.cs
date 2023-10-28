@@ -31,7 +31,7 @@
             this.uxProductLabel = new System.Windows.Forms.Label();
             this.uxSelectedProductName = new System.Windows.Forms.Label();
             this.uxSelectedProductTime = new System.Windows.Forms.Label();
-            this.uxStatusLabel = new System.Windows.Forms.Label();
+            this.uxStatus = new System.Windows.Forms.Label();
             this.uxBidInput = new System.Windows.Forms.TextBox();
             this.uxSelectedMinBid = new System.Windows.Forms.Label();
             this.uxPlaceBid = new System.Windows.Forms.Button();
@@ -64,13 +64,13 @@
             this.uxSelectedProductTime.TabIndex = 2;
             this.uxSelectedProductTime.Text = "0 d, 0 hr, 0 min left";
             // 
-            // uxStatusLabel
+            // uxStatus
             // 
-            this.uxStatusLabel.Location = new System.Drawing.Point(12, 78);
-            this.uxStatusLabel.Name = "uxStatusLabel";
-            this.uxStatusLabel.Size = new System.Drawing.Size(42, 16);
-            this.uxStatusLabel.TabIndex = 3;
-            this.uxStatusLabel.Text = "Status:";
+            this.uxStatus.Location = new System.Drawing.Point(12, 78);
+            this.uxStatus.Name = "uxStatus";
+            this.uxStatus.Size = new System.Drawing.Size(184, 16);
+            this.uxStatus.TabIndex = 3;
+            this.uxStatus.Text = "Status: Temp";
             // 
             // uxBidInput
             // 
@@ -122,7 +122,7 @@
             this.Controls.Add(this.uxPlaceBid);
             this.Controls.Add(this.uxSelectedMinBid);
             this.Controls.Add(this.uxBidInput);
-            this.Controls.Add(this.uxStatusLabel);
+            this.Controls.Add(this.uxStatus);
             this.Controls.Add(this.uxSelectedProductTime);
             this.Controls.Add(this.uxSelectedProductName);
             this.Controls.Add(this.uxProductLabel);
@@ -138,7 +138,7 @@
         private System.Windows.Forms.Label uxProductLabel;
         private System.Windows.Forms.Label uxSelectedProductName;
         private System.Windows.Forms.Label uxSelectedProductTime;
-        private System.Windows.Forms.Label uxStatusLabel;
+        private System.Windows.Forms.Label uxStatus;
         private System.Windows.Forms.TextBox uxBidInput;
         private System.Windows.Forms.Label uxSelectedMinBid;
         private System.Windows.Forms.Button uxPlaceBid;

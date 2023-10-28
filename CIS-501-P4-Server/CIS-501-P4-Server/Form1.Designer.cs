@@ -1,6 +1,6 @@
 ﻿namespace CIS_501_P4_Server
 {
-    partial class Form1
+    partial class ServerForm
     {
         /// <summary>
         /// Required designer variable.
@@ -31,6 +31,8 @@
             this.uxItemList = new System.Windows.Forms.ListBox();
             this.uxClientList = new System.Windows.Forms.ListBox();
             this.uxAddProduct = new System.Windows.Forms.Button();
+            this.uxExpireProduct = new System.Windows.Forms.Button();
+            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // uxItemList
@@ -58,17 +60,36 @@
             this.uxAddProduct.Text = "Add Product";
             this.uxAddProduct.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // uxExpireProduct
+            // 
+            this.uxExpireProduct.Location = new System.Drawing.Point(12, 418);
+            this.uxExpireProduct.Name = "uxExpireProduct";
+            this.uxExpireProduct.Size = new System.Drawing.Size(420, 52);
+            this.uxExpireProduct.TabIndex = 3;
+            this.uxExpireProduct.Text = "Expire Product";
+            this.uxExpireProduct.UseVisualStyleBackColor = true;
+            // 
+            // maskedTextBox1
+            // 
+            this.maskedTextBox1.Location = new System.Drawing.Point(449, 405);
+            this.maskedTextBox1.Name = "maskedTextBox1";
+            this.maskedTextBox1.Size = new System.Drawing.Size(100, 20);
+            this.maskedTextBox1.TabIndex = 4;
+            // 
+            // ServerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(447, 423);
+            this.ClientSize = new System.Drawing.Size(447, 482);
+            this.Controls.Add(this.maskedTextBox1);
+            this.Controls.Add(this.uxExpireProduct);
             this.Controls.Add(this.uxAddProduct);
             this.Controls.Add(this.uxClientList);
             this.Controls.Add(this.uxItemList);
-            this.Name = "Form1";
+            this.Name = "ServerForm";
             this.Text = "Server Form";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -77,6 +98,8 @@
         private System.Windows.Forms.ListBox uxItemList;
         private System.Windows.Forms.ListBox uxClientList;
         private System.Windows.Forms.Button uxAddProduct;
+        private System.Windows.Forms.Button uxExpireProduct;
+        private System.Windows.Forms.MaskedTextBox maskedTextBox1;
     }
 }
 
